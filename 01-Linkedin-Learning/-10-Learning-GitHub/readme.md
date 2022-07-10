@@ -1,7 +1,7 @@
-# Learning GitHub
+# Learning Git & GitHub
 ### Course details
-- GitHub is the industry-standard tool for collaborating on and sharing code. It’s popular among software developers, project managers, designers, and students for its flexibility and control. This course introduces GitHub and Git, the version control system that GitHub is built upon. Instructor Aaron Stewart, a training content specialist at GitHub, explains the benefits of version control, how to navigate GitHub and the command line, how GitHub and Git are related, and the best practices for communication and collaboration on GitHub. Aaron also reviews the most common tasks, such as branching, commits, and pull requests, and shows you how to create a simple local project and move it to GitHub to share with your team. Once you have completed the course, you should be able to immediately start using Git and GitHub to manage your own code.
+Learn how to use Git, the popular open-source version control software, to manage the source code for almost any project. In this course, Instructor explores the fundamental concepts behind version control systems and the Git architecture. Using a step-by-step approach, he shows how to install Git and presents the commands that enable efficient code management. Learn how to add, change, and delete files in the repository; view a log of previous commits; and compare versions of a file. Plus, see how to undo changes to files and ignore certain files in a Git repository.
 
 -------------------------------
-[Course Link](https://www.linkedin.com/learning/learning-github)
-<br>[Preview Certificate]()
+[Course Link](https://www.linkedin.com/learning/git-essential-training-the-basics)
+<br>[Preview Certificate](https://www.linkedin.com/learning/certificates/5b575a8899d9b454bacc1a6429f6e0c0bc0ba9171b4c993a285fa2631a19b977?trk=share_certificate)
